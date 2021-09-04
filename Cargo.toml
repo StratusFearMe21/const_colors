@@ -5,7 +5,7 @@ edition = "2018"
 readme = "README.md"
 description = "For when all you need, are colors in your terminal"
 repository = "https://github.com/StratusFearMe21/const_colors"
-license = "GPL-3"
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
